@@ -1,2 +1,4 @@
 practice git.
 yes.
+git add
+git commit
